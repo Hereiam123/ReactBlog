@@ -12,5 +12,4 @@ export function fetchPosts(){
     type: FETCH_POSTS,
     payload: request
   };
-
 }
